@@ -1,0 +1,296 @@
+{
+  "es": {
+    "meta": {
+      "title": "Indiana Kite · Hostel, escuela y trips en Cumbuco",
+      "description": "Hostel, escuela de kite y wing, trips y restobar en el centro de Cumbuco, a 30 metros de la playa."
+    },
+    "nav": {
+      "stay": "Hostel",
+      "school": "Escuela",
+      "trips": "Tribe",
+      "bar": "Restobar",
+      "wa": "WhatsApp",
+      "menu": "Abrir menú"
+    },
+    "hero": {
+      "lead": "Hostel, escuela y restobar a 30 metros de la playa. Más de 10 años en uno de los mejores spots de kite del mundo.",
+      "ctaStay": "Quiero hospedarme",
+      "ctaSchool": "Quiero clases"
+    },
+    "about": {
+      "kicker": "La casa",
+      "title": "Centro de Cumbuco. A 40 minutos del aeropuerto.",
+      "p1": "Cumbuco es el primer spot grande al norte de Fortaleza: agua flat, olas, downwinds y viento casi todos los días de temporada.",
+      "p2": "Indiana está en el centro del pueblo, a 30 metros de la playa. Pileta, gym, cowork con wifi, cocina, lounge y un jardín para lavar y secar el equipo."
+    },
+    "stay": {
+      "kicker": "Hostel",
+      "title": "Tres opciones de alojamiento.",
+      "lead": "Misma casa, misma playa.",
+      "communityTitle": "Community vibe",
+      "communityMeta": "Habitación compartida · 8 personas · mixta",
+      "community1": "Baño compartido",
+      "community2": "Aire / ventilador",
+      "community3": "Cargador y lockers",
+      "clubTitle": "The Club",
+      "clubMeta": "Habitación compartida · 4 personas · mixta o femenina",
+      "club1": "Baño compartido",
+      "club2": "Aire / ventilador",
+      "club3": "Lockers",
+      "club4": "Balcón con vista al mar",
+      "privateTitle": "Private cabins",
+      "privateMeta": "Privado · 1 a 3 personas · baño privado",
+      "private1": "Área chill con hamacas",
+      "private2": "Cowork privado",
+      "private3": "Ventilador",
+      "cta": "Consultar hospedaje"
+    },
+    "school": {
+      "kicker": "Escuela de kite y wing",
+      "title": "Clases para todos los niveles.",
+      "lead": "Principiantes, intermedios y avanzados. Seguridad primero. Instructores en portugués, inglés y español.",
+      "li1": "Equipo incluido en la clase",
+      "li2": "Rental: kite suelto o equipo completo",
+      "li3": "Clases privadas o en grupo",
+      "li4": "Kitecamp: hospedaje + clases",
+      "li5": "Jardín para lavar y secar el kite",
+      "cta": "Quiero clases"
+    },
+    "trips": {
+      "kicker": "Kitetrips & downwind",
+      "title": "Indiana Kite Tribe",
+      "lead": "5 días. Cumbuco → Jericoacoara. 242 km.",
+      "body": "Para kiters con downwind previo de al menos 30 km. Briefing diario, guías y logística completa.",
+      "cta": "Quiero sumarme"
+    },
+    "bar": {
+      "kicker": "Restobar",
+      "title": "Abierto para todo Cumbuco.",
+      "lead": "Desayuno, almuerzo, cena, bar. Forró gratis en la semana y la fiesta de los viernes.",
+      "chip1": "Desayuno",
+      "chip2": "Almuerzo",
+      "chip3": "Cena",
+      "chip4": "Bar",
+      "chip5": "Música en vivo",
+      "cta": "IG Restobar"
+    },
+    "reviews": {
+      "kicker": "Reviews",
+      "title": "Lo que dicen sobre Indiana",
+      "r1": "Viajé por más de 50 países y me quedé en cientos de hostels. Indiana fue de mis preferidos. Me quedé un mes; no quería irme.",
+      "r1by": "Davi · Brasil",
+      "r2": "La experiencia fue tan buena que volví. Casa, playa y gente en el mismo lugar.",
+      "r2by": "Carlota · España"
+    },
+    "cta": {
+      "kicker": "Reserva",
+      "title": "Hacelo pasar. Vení a Indiana.",
+      "hostel": "WhatsApp hostel",
+      "school": "WhatsApp Escuela Kite"
+    },
+    "footer": {
+      "loc": "Indiana Kite · Cumbuco, Ceará",
+      "ig": "Instagram"
+    },
+    "wa": {
+      "hostel": "Hola, quiero saber más del hostel Indiana Kite en Cumbuco.",
+      "school": "Hola, quiero saber más de la Escuela Kite de Indiana."
+    }
+  },
+  "pt": {
+    "meta": {
+      "title": "Indiana Kite · Hostel, escola e trips em Cumbuco",
+      "description": "Hostel, escola de kite e wing, trips e restobar no centro de Cumbuco, a 30 metros da praia."
+    },
+    "nav": {
+      "stay": "Hostel",
+      "school": "Escola",
+      "trips": "Tribe",
+      "bar": "Restobar",
+      "wa": "WhatsApp",
+      "menu": "Abrir menu"
+    },
+    "hero": {
+      "lead": "Hostel, escola e restobar a 30 metros da praia. Mais de 10 anos em um dos melhores spots de kite do mundo.",
+      "ctaStay": "Quero me hospedar",
+      "ctaSchool": "Quero aulas"
+    },
+    "about": {
+      "kicker": "A casa",
+      "title": "Centro de Cumbuco. A 40 minutos do aeroporto.",
+      "p1": "Cumbuco é o primeiro spot grande ao norte de Fortaleza: água flat, ondas, downwinds e vento quase todos os dias da temporada.",
+      "p2": "A Indiana fica no centro da vila, a 30 metros da praia. Piscina, gym, cowork com wifi, cozinha, lounge e um jardim para lavar e secar o equipamento."
+    },
+    "stay": {
+      "kicker": "Hostel",
+      "title": "Três opções de hospedagem.",
+      "lead": "A mesma casa, a mesma praia.",
+      "communityTitle": "Community vibe",
+      "communityMeta": "Quarto compartilhado · 8 pessoas · misto",
+      "community1": "Banheiro compartilhado",
+      "community2": "Ar / ventilador",
+      "community3": "Carregador e lockers",
+      "clubTitle": "The Club",
+      "clubMeta": "Quarto compartilhado · 4 pessoas · misto ou feminino",
+      "club1": "Banheiro compartilhado",
+      "club2": "Ar / ventilador",
+      "club3": "Lockers",
+      "club4": "Varanda com vista para o mar",
+      "privateTitle": "Private cabins",
+      "privateMeta": "Privativo · 1 a 3 pessoas · banheiro privativo",
+      "private1": "Área chill com redes",
+      "private2": "Cowork privativo",
+      "private3": "Ventilador",
+      "cta": "Consultar hospedagem"
+    },
+    "school": {
+      "kicker": "Escola de kite e wing",
+      "title": "Aulas para todos os níveis.",
+      "lead": "Iniciantes, intermediários e avançados. Segurança primeiro. Instrutores em português, inglês e espanhol.",
+      "li1": "Equipamento incluso na aula",
+      "li2": "Rental: kite avulso ou equipamento completo",
+      "li3": "Aulas particulares ou em grupo",
+      "li4": "Kitecamp: hospedagem + aulas",
+      "li5": "Jardim para lavar e secar o kite",
+      "cta": "Quero aulas"
+    },
+    "trips": {
+      "kicker": "Kitetrips & downwind",
+      "title": "Indiana Kite Tribe",
+      "lead": "5 dias. Cumbuco → Jericoacoara. 242 km.",
+      "body": "Para kiters com downwind prévio de pelo menos 30 km. Briefing diário, guias e logística completa.",
+      "cta": "Quero participar"
+    },
+    "bar": {
+      "kicker": "Restobar",
+      "title": "Aberto para todo Cumbuco.",
+      "lead": "Café da manhã, almoço, jantar, bar. Forró grátis na semana e a festa de sexta.",
+      "chip1": "Café da manhã",
+      "chip2": "Almoço",
+      "chip3": "Jantar",
+      "chip4": "Bar",
+      "chip5": "Música ao vivo",
+      "cta": "IG Restobar"
+    },
+    "reviews": {
+      "kicker": "Reviews",
+      "title": "O que dizem sobre a Indiana",
+      "r1": "Viajei por mais de 50 países e fiquei em centenas de hostels. A Indiana foi um dos meus preferidos. Fiquei um mês; não queria ir embora.",
+      "r1by": "Davi · Brasil",
+      "r2": "A experiência foi tão boa que eu voltei. Casa, praia e gente no mesmo lugar.",
+      "r2by": "Carlota · Espanha"
+    },
+    "cta": {
+      "kicker": "Reserva",
+      "title": "Vem pra Indiana.",
+      "hostel": "WhatsApp hostel",
+      "school": "WhatsApp Escola de Kite"
+    },
+    "footer": {
+      "loc": "Indiana Kite · Cumbuco, Ceará",
+      "ig": "Instagram"
+    },
+    "wa": {
+      "hostel": "Oi, quero saber mais do hostel Indiana Kite em Cumbuco.",
+      "school": "Oi, quero saber mais da Escola de Kite da Indiana."
+    }
+  },
+  "en": {
+    "meta": {
+      "title": "Indiana Kite · Hostel, school and trips in Cumbuco",
+      "description": "Hostel, kite and wing school, trips and restobar in the center of Cumbuco, 30 meters from the beach."
+    },
+    "nav": {
+      "stay": "Hostel",
+      "school": "School",
+      "trips": "Tribe",
+      "bar": "Restobar",
+      "wa": "WhatsApp",
+      "menu": "Open menu"
+    },
+    "hero": {
+      "lead": "Hostel, school and restobar 30 meters from the beach. More than 10 years in one of the best kite spots in the world.",
+      "ctaStay": "I want to stay",
+      "ctaSchool": "I want lessons"
+    },
+    "about": {
+      "kicker": "The house",
+      "title": "Center of Cumbuco. 40 minutes from the airport.",
+      "p1": "Cumbuco is the first big spot north of Fortaleza: flat water, waves, downwinds and wind almost every day in season.",
+      "p2": "Indiana sits in the center of town, 30 meters from the beach. Pool, gym, cowork with wifi, kitchen, lounge and a garden to wash and dry your gear."
+    },
+    "stay": {
+      "kicker": "Hostel",
+      "title": "Three accommodation options.",
+      "lead": "Same house, same beach.",
+      "communityTitle": "Community vibe",
+      "communityMeta": "Shared room · 8 people · mixed",
+      "community1": "Shared bathroom",
+      "community2": "AC / fan",
+      "community3": "Chargers and lockers",
+      "clubTitle": "The Club",
+      "clubMeta": "Shared room · 4 people · mixed or female",
+      "club1": "Shared bathroom",
+      "club2": "AC / fan",
+      "club3": "Lockers",
+      "club4": "Balcony with sea view",
+      "privateTitle": "Private cabins",
+      "privateMeta": "Private · 1 to 3 people · private bathroom",
+      "private1": "Chill area with hammocks",
+      "private2": "Private cowork",
+      "private3": "Fan",
+      "cta": "Ask about staying"
+    },
+    "school": {
+      "kicker": "Kite & wing school",
+      "title": "Lessons for every level.",
+      "lead": "Beginner, intermediate and advanced. Safety first. Instructors in Portuguese, English and Spanish.",
+      "li1": "Gear included in the lesson",
+      "li2": "Rental: kite only or full setup",
+      "li3": "Private or group lessons",
+      "li4": "Kitecamp: stay + lessons",
+      "li5": "Garden to wash and dry your kite",
+      "cta": "I want lessons"
+    },
+    "trips": {
+      "kicker": "Kitetrips & downwind",
+      "title": "Indiana Kite Tribe",
+      "lead": "5 days. Cumbuco → Jericoacoara. 242 km.",
+      "body": "For kiters with a previous downwind of at least 30 km. Daily briefing, guides and full logistics.",
+      "cta": "I want to join"
+    },
+    "bar": {
+      "kicker": "Restobar",
+      "title": "Open to all of Cumbuco.",
+      "lead": "Breakfast, lunch, dinner, bar. Free forró during the week and the Friday party.",
+      "chip1": "Breakfast",
+      "chip2": "Lunch",
+      "chip3": "Dinner",
+      "chip4": "Bar",
+      "chip5": "Live music",
+      "cta": "IG Restobar"
+    },
+    "reviews": {
+      "kicker": "Reviews",
+      "title": "What people say about Indiana",
+      "r1": "I traveled through more than 50 countries and stayed in hundreds of hostels. Indiana was one of my favorites. I stayed a month; I didn't want to leave.",
+      "r1by": "Davi · Brazil",
+      "r2": "The experience was so good I came back. House, beach and people in the same place.",
+      "r2by": "Carlota · Spain"
+    },
+    "cta": {
+      "kicker": "Book",
+      "title": "Join us. Welcome to Indiana",
+      "hostel": "WhatsApp hostel",
+      "school": "WhatsApp Kite School"
+    },
+    "footer": {
+      "loc": "Indiana Kite · Cumbuco, Ceará",
+      "ig": "Instagram"
+    },
+    "wa": {
+      "hostel": "Hi, I'd like to know more about Indiana Kite hostel in Cumbuco.",
+      "school": "Hi, I'd like to know more about Indiana Kite School."
+    }
+  }
+}
